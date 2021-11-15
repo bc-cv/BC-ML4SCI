@@ -1,4 +1,4 @@
-# Machine Learning for Science at Boston CollegeIAllan Lab Website
+# Machine Learning for Science at Boston College
 
 This is the website of an academic research group at Boston College.
 
@@ -6,8 +6,8 @@ This is the website of an academic research group at Boston College.
 ## Data Editing
 - Edit the `.yml` in `_data/`
 
-## [Installation (Mac)](# Installation:  https://jekyllrb.com/docs/installation/macos/)
-	- Install ruby
+## [Installation (Mac)](https://jekyllrb.com/docs/installation/macos/)
+- Install ruby
     ```
 	brew install rbenv
 	rbenv install 3.0.0
@@ -15,7 +15,7 @@ This is the website of an academic research group at Boston College.
 	echo 'export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"' >> ~/.bash_profilebrew install ruby
     rbenv global 3.0.0
     ```
-	- Install jekyll
+- Install jekyll
     ```
     gem install --user-install bundler jekyll
 	bundle update --bundler
