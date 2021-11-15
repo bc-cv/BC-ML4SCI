@@ -8,9 +8,10 @@ img { margin-bottom: 24px;
     border-radius:2%;
 }
 
-
 body {
-	padding-top: 70px;
+	margin-top: 70px;
+    height: 100%;
+    position: relative;
 }
 
 figcaption {
@@ -40,6 +41,23 @@ pubtit {
 firstp {
 }
 
+.container-page {
+ min-height: 100vh; /* will cover the 100% of viewport */
+ display: block;
+ position: relative;
+}
+
+#team {
+ max-height: 200px;
+ overflow-y: auto;
+ }
+
+#footer {
+ position: absolute;
+ bottom: 50px;
+ width: 100%;
+}
+
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
@@ -64,7 +82,7 @@ firstp {
 #gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
 #homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
-#gridid .row { margin-bottom: 24px; }
+#gridid .row { margin-bottom: 0px; }
 
 
 /* Grid overrides */
@@ -76,10 +94,9 @@ firstp {
 
 /* Grid overrides */
 .col-sm-4 {
-	padding-left: 26px;
-	padding-right: 26px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
-
 
 /* Carusel */
 
@@ -91,3 +108,14 @@ firstp {
     margin-right: 30px;
 }
 
+.carousel .item {
+    height: 800px;
+}
+
+.item img {
+    position: relative;
+    object-fit:cover;
+    top: 0;
+    left: 0;
+    min-height: 90%;
+}

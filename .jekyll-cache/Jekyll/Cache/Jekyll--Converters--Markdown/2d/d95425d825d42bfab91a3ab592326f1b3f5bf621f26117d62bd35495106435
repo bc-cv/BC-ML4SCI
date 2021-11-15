@@ -1,0 +1,16 @@
+I"¬<h1 id="events">Events</h1>
+
+<div class="row">
+
+  <div class="col-sm-10 clearfix">
+    <p><img src="http://localhost:4000/BC-ML4SCI/images/teampic/pis/sergio.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>An awesome talk title</h4>
+    <p>Speaker: <a href="http://www.cs.bc.edu/~alvarez/">Sergio Alvarez, Associate professor</a>
+  <br /> Time: aa/bb/cc
+  <br /> Location: Room dd @ ee
+  <br /><br /> Description: <i>We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons. </i></p>
+  </div>
+
+</div>
+
+:ET

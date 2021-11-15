@@ -1,0 +1,34 @@
+- name: Sergio Alvarez
+  photo: pis/sergio.png
+  info: Associate professor
+  department: Computer Science
+  email: alvarez@bc.edu
+  website: http://www.cs.bc.edu/~alvarez/
+
+- name: José Bento
+  photo: pis/jose.png
+  info: Associate professor
+  department: Computer Science
+  email: jose.bento@bc.edu 
+  website: http://www.jbento.info/
+
+- name: Emily Prud'hommeaux 
+  photo: pis/emily.png
+  info: Gianinno Family Sesquicentennial Assistant Professor
+  department: Computer Science
+  email: prudhome@bc.edu 
+  website: http://cs.bc.edu/~prudhome/
+
+- name: Jean-Baptiste Tristan
+  photo: pis/john.png
+  info: Associate professor
+  department: Computer Science
+  email: tristanj@bc.edu 
+  website: https://jtristan.github.io/
+
+- name: Donglai Wei
+  photo: pis/donglai.png
+  info: Assistant professor
+  department: Computer Science
+  email: donglai.wei@bc.edu
+  website: https://donglaiw.github.io/

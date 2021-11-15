@@ -1,0 +1,27 @@
+- name: Stefano Anzellotti
+  photo: affiliates/stefano_anzellotti.png
+  info: Assistant professor
+  department: Psychology
+  email: stefano.anzellotti@bc.edu
+  website: https://sccnlab.bc.edu/
+
+- name: Eric S. Folker
+  photo: affiliates/eric_folker.png
+  info: Associate professor
+  department: Biology
+  email: eric.folker@bc.edu 
+  website: https://folkerlab.org/ 
+
+- name: Joshua Hartshorne
+  photo: affiliates/joshua_hartshorne.png
+  info: Assistant professor
+  department: Psychology
+  email: joshua.hartshorne@bc.edu
+  website: http://l3atbc.org/JKHartshorne.About.html 
+
+- name: Bryan Ranger
+  photo: affiliates/bryan_ranger.png
+  info: Assistant professor
+  department: Engineering
+  email: bryan.ranger@bc.edu 
+  website: https://bryanranger.com/
