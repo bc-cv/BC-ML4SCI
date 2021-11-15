@@ -42,21 +42,12 @@ firstp {
 }
 
 .container-page {
- min-height: 100vh; /* will cover the 100% of viewport */
+ min-height: 90vh; /* will cover the 100% of viewport */
  display: block;
  position: relative;
 }
 
-#team {
- max-height: 200px;
- overflow-y: auto;
- }
 
-#footer {
- position: absolute;
- bottom: 50px;
- width: 100%;
-}
 
 .container-fluid {
   margin-right: auto;
