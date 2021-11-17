@@ -5,6 +5,13 @@
   email: stefano.anzellotti@bc.edu
   website: https://sccnlab.bc.edu/
 
+- name: Lucas Bao
+  photo: affiliates/lucas_bao.png
+  info: Assistant professor
+  department: Chemistry 
+  email: lucas.bao@bc.edu 
+  website: https://www.lucasbaogroup.com/
+
 - name: Eric S. Folker
   photo: affiliates/eric_folker.png
   info: Associate professor
@@ -18,6 +25,13 @@
   department: Psychology
   email: joshua.hartshorne@bc.edu
   website: http://l3atbc.org/JKHartshorne.About.html 
+
+- name: Angie Johnston
+  photo: affiliates/angie_johnston.png
+  info: Assistant professor
+  department: Psychology
+  email: angie.johnston@bc.edu 
+  website: https://sites.bc.edu/angiejohnston/ 
 
 - name: Bryan Ranger
   photo: affiliates/bryan_ranger.png
