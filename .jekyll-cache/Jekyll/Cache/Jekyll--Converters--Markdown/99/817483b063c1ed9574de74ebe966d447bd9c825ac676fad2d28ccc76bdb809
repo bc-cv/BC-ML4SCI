@@ -1,4 +1,4 @@
-I"Â<h1 id="pis">PIs</h1>
+I"É"<h1 id="pis">PIs</h1>
 
 <div class="row">
 
@@ -23,6 +23,20 @@
   </div>
 
   <div class="col-sm-4 clearfix">
+    <p><img src="http://localhost:4000/BC-ML4SCI/images/teampic/pis/george-mohler.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="http://www.jbento.info/">George Mohler</a></h4>
+    <p><i>Professor </i>
+  <br /> Computer Science
+  <br /> <a href="mailto:xx@bc.edu">xx@bc.edu</a></p>
+    <ul style="overflow: hidden">
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-4 clearfix">
     <p><img src="http://localhost:4000/BC-ML4SCI/images/teampic/pis/emily.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4><a href="http://cs.bc.edu/~prudhome/">Emily Prudâ€™hommeaux</a></h4>
     <p><i>Gianinno Family Sesquicentennial Assistant Professor </i>
@@ -31,10 +45,6 @@
     <ul style="overflow: hidden">
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-4 clearfix">
     <p><img src="http://localhost:4000/BC-ML4SCI/images/teampic/pis/john.png" class="img-responsive" width="25%" style="float: left" /></p>
@@ -74,6 +84,16 @@
   </div>
 
   <div class="col-sm-4 clearfix">
+    <p><img src="http://localhost:4000/BC-ML4SCI/images/teampic/affiliates/lucas_bao.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="https://www.lucasbaogroup.com/">Lucas Bao</a></h4>
+    <p><i>Assistant professor</i> 
+  <br /> Chemistry
+  <br /> <a href="mailto:lucas.bao@bc.edu">lucas.bao@bc.edu</a></p>
+    <ul style="overflow: hidden">
+  </ul>
+  </div>
+
+  <div class="col-sm-4 clearfix">
     <p><img src="http://localhost:4000/BC-ML4SCI/images/teampic/affiliates/eric_folker.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4><a href="https://folkerlab.org/">Eric S. Folker</a></h4>
     <p><i>Associate professor</i> 
@@ -82,6 +102,10 @@
     <ul style="overflow: hidden">
   </ul>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-4 clearfix">
     <p><img src="http://localhost:4000/BC-ML4SCI/images/teampic/affiliates/joshua_hartshorne.png" class="img-responsive" width="25%" style="float: left" /></p>
@@ -93,9 +117,15 @@
   </ul>
   </div>
 
-</div>
-
-<div class="row">
+  <div class="col-sm-4 clearfix">
+    <p><img src="http://localhost:4000/BC-ML4SCI/images/teampic/affiliates/angie_johnston.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="https://sites.bc.edu/angiejohnston/">Angie Johnston</a></h4>
+    <p><i>Assistant professor</i> 
+  <br /> Psychology
+  <br /> <a href="mailto:angie.johnston@bc.edu">angie.johnston@bc.edu</a></p>
+    <ul style="overflow: hidden">
+  </ul>
+  </div>
 
   <div class="col-sm-4 clearfix">
     <p><img src="http://localhost:4000/BC-ML4SCI/images/teampic/affiliates/bryan_ranger.png" class="img-responsive" width="25%" style="float: left" /></p>
