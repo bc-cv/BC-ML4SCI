@@ -1,4 +1,16 @@
+- name: An Introduction to Data Science (CSCI 2291)
+
+- name: Visualization (CSCI 3311)
+
 - name: Computer Vision (CSCI 3343)
-- name: Computer Vision (CSCI 3343)
-- name: Computer Vision (CSCI 3343)
-- name: Computer Vision (CSCI 3343)
+  website: https://bc-cv.github.io/csci3343/f22/ 
+
+- name: Machine Learning (CSCI 3345)
+
+- name: Robotics (CSCI 3347)
+
+- name: Natural Language Processing (CSCI 3349)
+
+- name: Computational Modeling of Contagion and Epidemics (CSCI 3391)
+
+- name: Biomedical Image Analysis (CSCI 3397)

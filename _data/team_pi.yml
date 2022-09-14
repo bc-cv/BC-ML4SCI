@@ -12,12 +12,19 @@
   email: jose.bento@bc.edu 
   website: http://www.jbento.info/
 
+- name: Nam Wook Kim
+  photo: pis/nam.png
+  info: Assistant professor
+  department: Computer Science
+  email: nam.wook.kim@bc.edu
+  website: http://www.namwkim.org/
+
 - name: George Mohler
   photo: pis/george-mohler.png
   info: Professor
   department: Computer Science
   email: george.mohler@bc.edu 
-  website: http://www.jbento.info/
+  website: https://www.georgemohler.com/
 
 - name: Emily Prud'hommeaux 
   photo: pis/emily.png
