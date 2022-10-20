@@ -1,4 +1,4 @@
-I"Ï<h1 id="courses">Courses</h1>
+I"©<h1 id="courses">Courses</h1>
 
 <div class="col-sm-12 clearfix">
   <p>An Introduction to Data Science (CSCI 2291)</p>
@@ -30,6 +30,14 @@
 
 <div class="col-sm-12 clearfix">
   <p>Biomedical Image Analysis (CSCI 3397)</p>
+</div>
+
+<div class="col-sm-12 clearfix">
+  <p>(Topics in Mathematics) Maths + Machine Learning (MATH 4480)</p>
+</div>
+
+<div class="col-sm-12 clearfix">
+  <p>(Topics in Mathematics) Time-series Analysis (MATH 4480)</p>
 </div>
 
 :ET

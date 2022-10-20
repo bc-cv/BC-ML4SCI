@@ -12,12 +12,34 @@
   email: jose.bento@bc.edu 
   website: http://www.jbento.info/
 
+- name: Elisenda Grigsby
+  photo: pis/eli.png
+  info: Professor
+  department: Mathematics
+  email: julia.grigsby@bc.edu 
+  website: https://sites.google.com/bc.edu/eli-grigsby/
+
 - name: Nam Wook Kim
   photo: pis/nam.png
   info: Assistant professor
   department: Computer Science
   email: nam.wook.kim@bc.edu
   website: http://www.namwkim.org/
+
+- name: Kathryn Lindsey
+  photo: pis/kathryn.png
+  info: Assistant professor
+  department: Mathematics
+  email: lindseka@bc.edu 
+  website: http://www.kathrynlindsey.com/
+
+- name: Robert Meyerhoff
+  photo: pis/robert.png
+  info: Professor
+  department: Mathematics
+  email: robert.meyerhoff@bc.edu 
+  website: https://sites.google.com/bc.edu/robert-meyerhoff
+
 
 - name: George Mohler
   photo: pis/george-mohler.png

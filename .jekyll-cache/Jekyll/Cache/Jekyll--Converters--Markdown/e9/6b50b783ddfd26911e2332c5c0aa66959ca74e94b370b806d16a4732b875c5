@@ -1,4 +1,8 @@
-I"*<h1 id="courses">Courses</h1>
+I"¨<h1 id="courses">Courses</h1>
+
+<div class="col-sm-12 clearfix">
+  <p>CSCI 2291: An Introduction to Data Science</p>
+</div>
 
 <div class="col-sm-12 clearfix">
   <p>Visualization (CSCI 3311)</p>
@@ -13,6 +17,10 @@
 </div>
 
 <div class="col-sm-12 clearfix">
+  <p>Robotics (CSCI 3347)</p>
+</div>
+
+<div class="col-sm-12 clearfix">
   <p>Natural Language Processing (CSCI 3349)</p>
 </div>
 
@@ -22,6 +30,14 @@
 
 <div class="col-sm-12 clearfix">
   <p>Biomedical Image Analysis (CSCI 3397)</p>
+</div>
+
+<div class="col-sm-12 clearfix">
+  <p>(Topics in Mathematics) Maths + Machine Learning (MATH 4480)</p>
+</div>
+
+<div class="col-sm-12 clearfix">
+  <p>(Topics in Mathematics) Time-series Analysis (MATH 4480)</p>
 </div>
 
 :ET

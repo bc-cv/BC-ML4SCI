@@ -1,16 +1,19 @@
-- name: An Introduction to Data Science (CSCI 2291)
+- name: CSCI 2291&#58; An Introduction to Data Science 
 
-- name: Visualization (CSCI 3311)
-
-- name: Computer Vision (CSCI 3343)
+- name: CSCI 3343&#58; Computer Vision
   website: https://bc-cv.github.io/csci3343/f22/ 
 
-- name: Machine Learning (CSCI 3345)
+- name: CSCI 3345&#58; Machine Learning
 
-- name: Robotics (CSCI 3347)
+- name: CSCI 3347&#58; Robotics
 
-- name: Natural Language Processing (CSCI 3349)
+- name: CSCI 3349&#58; Natural Language Processing
 
-- name: Computational Modeling of Contagion and Epidemics (CSCI 3391)
+- name: CSCI 3391&#58; Computational Modeling of Contagion and Epidemics
 
-- name: Biomedical Image Analysis (CSCI 3397)
+- name: CSCI 3397&#58; Biomedical Image Analysis
+  website: https://bc-cv.github.io/csci3393/s22/ 
+
+- name: MATH 4480&#58; Topics in Mathematics (Maths + Machine Learning)
+
+- name: MATH 4480&#58; Topics in Mathematics (Time-series Analysis)

@@ -5,7 +5,7 @@ excerpt: "ML4SCI@BC: Team members"
 sitemap: false
 permalink: /team/
 ---
-# PIs
+# ML PIs
 
 {% assign number_printed = 0 %}
 {% assign number_per_row = 3 %}
@@ -42,7 +42,7 @@ permalink: /team/
 {% endif %}
 
 <br/>
-## Affliated PIs
+## Science PIs
 {% assign number_printed = 0 %}
 {% for member in site.data.team_affiliate %}
 
