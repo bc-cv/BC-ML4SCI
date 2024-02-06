@@ -33,7 +33,6 @@
   email: robert.meyerhoff@bc.edu 
   website: https://sites.google.com/bc.edu/robert-meyerhoff
 
-
 - name: George Mohler
   photo: pis/george-mohler.png
   info: Professor
@@ -48,12 +47,12 @@
   email: prudhome@bc.edu 
   website: http://cs.bc.edu/~prudhome/
 
-- name: Jean-Baptiste Tristan
-  photo: pis/john.png
-  info: Associate professor
+- name: Yuan Yuan
+  photo: pis/yuan.jpg
+  info: Assstant professor
   department: Computer Science
-  email: tristanj@bc.edu 
-  website: https://jtristan.github.io/
+  email: yuanyua@bc.edu 
+  website: https://yyuanad.github.io/
 
 - name: Donglai Wei
   photo: pis/donglai.png
